@@ -1,4 +1,4 @@
-# Xtream-Codes-1.60.0
+# Xtream-Codes-1.60.0 by kIsSwdev
 
 <img src="https://http2.mlstatic.com/script-painel-iptv-xtream-codes-licenca-full-D_NQ_NP_996477-MLB27770194551_072018-F.jpg">
 
