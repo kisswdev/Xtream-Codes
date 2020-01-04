@@ -26,7 +26,7 @@ Our IPTV/OTT platform has integrated transcoding and re-streaming capabilities, 
 	
 Installation options:
 
-        wget https://github.com/iptvpanel/Xtream-Codes-1.60.0/blob/master/installer.sh
+        wget https://github.com/kisswdev/Xtream-Codes/blob/master/installer.sh
         chmod 755 installer.shinstaller.sh
         ./installer.sh
 
